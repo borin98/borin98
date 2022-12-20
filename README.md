@@ -7,7 +7,7 @@ I'm a mathematician that loves to solve problems involving computer vision with 
 - 🔭 I’m currently working on Brazil particle accelerator (Sirius)
 - 🌱 I’m currently learning about Super-resolution techniques using GAN's along with deep learning segmentation techniques using pytorch and tensorflow, fulltack _pipeline_ with react and fast API, docker and DevOps to deploy machine/Deep learning applications.
 - 📫 How to reach me: borinmacedo@gmail.com
-- ⚡ Fun fact: I love to play videogames (Especially final fantasy games)
+- ⚡ Fun fact: I love to play videogames (Especially final fantasy games. Also I have a dog named as "Pitty" as tribute to the famous Brazillian singer "Pitty")
 
 <div align="center">
   <a href="https://github.com/borin98">
